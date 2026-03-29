@@ -9,10 +9,10 @@ Senior Engineer with 8+ years of experience in cloud infrastructure, DevOps, and
 ## Skills
 * **Container & Orchestration**: Kubernetes (RKE2, EKS, GKE, Tanzu), Rancher, Helm, Docker, Rook
 * **Infrastructure as Code**: Terraform, Ansible, Helm
-* **Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Azure DevOps
+* **Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP)
 * **GitOps & CI/CD**: Rancher Fleet, Azure DevOps Pipelines, GitHub, JFrog Artifactory, JFrog Xray
 * **Observability & Monitoring**: LGTM Stack (Loki, Grafana, Tempo, Mimir), Prometheus, Elastic Stack (ELK)
 * **Security & Secrets**: HashiCorp Vault, pfSense, SonarQube
-* **Languages & Scripting**: TypeScript, Node.js, PowerShell, Bash
+* **Languages & Scripting**: TypeScript, JavaScript, PowerShell, Bash
 * **Databases & Storage**: RDS, Rook (Ceph)
 * **Other**: Linux System Administration, Network Administration, VMware Tanzu
