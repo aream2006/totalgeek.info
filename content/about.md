@@ -3,13 +3,16 @@ title: "About Me"
 date: 2021-07-03T15:07:24-05:00
 ---
 
-I'm a Site Reliability Engineer in the North Dallas area with almost 10 years of experience in IT.
+Senior Engineer with 8+ years of experience in cloud infrastructure, DevOps, and Site Reliability Engineering. Proven expertise in Kubernetes at scale (50+ clusters), multi-cloud environments (AWS, GCP, Azure), and infrastructure-as-code with Terraform. Passionate about automation, GitOps, and building observability platforms that enable engineering teams to ship faster and operate reliably.
+
 
 ## Skills
-* Kubernetes
-* AWS
-* Docker
-* Ansible
-* Github
-* Azure DevOps
-* Terraform
+* **Container & Orchestration**: Kubernetes (RKE2, EKS, GKE, Tanzu), Rancher, Helm, Docker, Rook
+* **Infrastructure as Code**: Terraform, Ansible, Helm
+* **Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+* **GitOps & CI/CD**: Rancher Fleet, Azure DevOps Pipelines, GitHub, JFrog Artifactory, JFrog Xray
+* **Observability & Monitoring**: LGTM Stack (Loki, Grafana, Tempo, Mimir), Prometheus, Elastic Stack (ELK)
+* **Security & Secrets**: HashiCorp Vault, pfSense, SonarQube
+* **Languages & Scripting**: TypeScript, JavaScript, PowerShell, Bash
+* **Databases & Storage**: RDS, Rook (Ceph)
+* **Other**: Linux System Administration, Network Administration, VMware Tanzu
